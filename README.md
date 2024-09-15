@@ -1,2 +1,2 @@
-# BloomFilter.java
-Program for undergraduate research project that implements the use of Bloom Filters to compare similarities of Encrypted Files
+# Top-K Docs
+Program that outputs the top k docs that are similar to a base file in both hashed and unhashed form. And finally outputs the Intersection of these two formats(hashed and unhashed)
